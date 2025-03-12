@@ -49,7 +49,7 @@ const model = "qwen:2.5"; // Change this to your preferred model
 
 ## Screenshot
 
-![AI Chat Screenshot](image.png)
+![AI Chat Screenshot](https://github.com/user-attachments/assets/2364b382-9edd-49f5-8664-551859e0e158)
 
 ## Future Plans 🚀
 
