@@ -22,7 +22,7 @@ Before running this project, ensure you have the following installed:
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/yourusername/ai-chat.git
+git clone https://github.com/lauusz/simple-ai-chat.git
 cd ai-chat
 npm install
 ```
