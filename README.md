@@ -41,10 +41,10 @@ npm run dev
 
 ## Customization
 
-To change the AI model used in the chatbot, update the model name in `/api/chat/route.ts` to match the model installed on your PC:
+To change the AI model used in the chatbot, update the model name in `app/api/chat/route.ts` to match the model installed on your PC:
 
 ```ts
-const model = "qwen:2.5"; // Change this to your preferred model
+model: "qwen2.5:1.5b" // Change this to your preferred model
 ```
 
 ## Screenshot
